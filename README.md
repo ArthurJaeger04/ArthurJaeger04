@@ -2,9 +2,9 @@
 
 <div align="center">
 
-## 👨‍💻 Desenvolvedor Full Stack em evolução
+## 👨‍💻 Desenvolvedor em evolução
 
-### React • TypeScript • Node.js • PostgreSQL • Suporte Técnico
+**Backend • APIs • Integrações • TypeScript • Node.js**
 
 </div>
 
@@ -12,112 +12,49 @@
 
 ## 🚀 Sobre mim
 
-Sou o **Arthur Jaeger**, desenvolvedor em evolução com foco em **Front-end, Back-end e soluções web completas**.
+Sou **Arthur Jaeger**, estudante de **Sistemas de Informação** e desenvolvedor em evolução.
 
-Gosto de criar interfaces modernas, sistemas funcionais e projetos que realmente resolvem problemas. Tenho experiência com **suporte técnico, manutenção de computadores, redes, instalação de componentes e resolução de falhas**, o que fortaleceu muito minha lógica, persistência e capacidade de resolver problemas na prática.
+Atualmente estou direcionando meus estudos para **Backend**, principalmente na criação de **APIs, integrações entre sistemas, bancos de dados e automações**.
 
-Atualmente estou evoluindo como **Desenvolvedor Full Stack**, criando projetos próprios, estudando novas tecnologias e buscando oportunidades para crescer na área de tecnologia.
+Também tenho experiência com desenvolvimento Front-end e suporte técnico, o que me ajuda a entender os projetos de forma mais completa e principalmente a **investigar e resolver problemas**.
 
----
-
-## 🎯 Objetivos
-
-- Evoluir como **Desenvolvedor Full Stack**
-- Criar projetos reais para portfólio
-- Melhorar minhas habilidades em **React, TypeScript, Node.js e banco de dados**
-- Trabalhar com tecnologia e crescer profissionalmente na área
-- Aprender boas práticas de código, versionamento e deploy
+Gosto de aprender construindo projetos reais e entender como as coisas funcionam por trás da aplicação.
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+## 🛠️ Tecnologias
 
 <div align="center">
 
-### Front-end
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" title="TypeScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React"/>
-
-### Back-end e Banco de Dados
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" title="Node.js"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" title="Express"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL"/>
-
-### Ferramentas
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" title="VS Code"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" title="Docker"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" title="Postman"/>
-
 
 </div>
 
 ---
 
-## 📌 Projetos em destaque
+## 🎯 Atualmente focado em
 
-### 🍰 Belart Doceria
-
-Projeto desenvolvido para apresentar uma doceria de forma moderna, visual e responsiva.
-
-**Tecnologias utilizadas:**
-
-- React
-- TypeScript
-- CSS
-- Componentização
-- Layout responsivo
+* Desenvolvimento de **APIs REST**
+* **Node.js + TypeScript**
+* PostgreSQL e integração com bancos de dados
+* Integrações com serviços externos
+* Autenticação e sistemas de usuários
+* APIs de terceiros e webhooks
+* Docker e deploy
+* Arquitetura e boas práticas de backend
 
 ---
 
-### 🎮 Sistemas Web e Dashboards
+## 💻 Projetos
 
-Tenho estudado e desenvolvido sistemas com foco em:
-
-- Leaderboards
-- Páginas de estatísticas
-- Integração com banco de dados
-- Autenticação
-- APIs
-- Dashboards administrativos
-- Integrações com pagamentos
-
----
-
-
-## 🧠 Atualmente estudando
-
-- React avançado
-- TypeScript
-- Node.js
-- APIs REST
-- PostgreSQL
-- Docker
-- Deploy de aplicações
-- Boas práticas de desenvolvimento
-- Integrações com sistemas externos
-
----
-
-## 💼 Experiência técnica
-
-Além do desenvolvimento web, também tenho experiência com:
-
-- Montagem e manutenção de computadores
-- Instalação e troca de componentes
-- Diagnóstico de problemas técnicos
-- Redes e conectividade
-- Troca de placas de rede
-- Suporte técnico ao usuário
-- Resolução de problemas de hardware e software
-
-Essa base técnica me ajuda muito como desenvolvedor, principalmente na hora de investigar erros, entender sistemas e buscar soluções com persistência.
+Tenho desenvolvido projetos próprios envolvendo **dashboards, sistemas web, APIs, bancos de dados e integrações externas**, buscando sempre transformar ideias em sistemas funcionais.
 
 ---
 
@@ -139,7 +76,7 @@ Essa base técnica me ajuda muito como desenvolvedor, principalmente na hora de 
 
 <div align="center">
 
-### 🚀 Sempre aprendendo, evoluindo e criando soluções com tecnologia.
+### ⚙️ Construindo, integrando e aprendendo todos os dias.
 
 </div>
 
