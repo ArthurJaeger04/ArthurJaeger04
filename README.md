@@ -4,7 +4,7 @@
 
 ## 👨‍💻 Desenvolvedor em evolução
 
-**Backend • APIs • Integrações • TypeScript • Node.js**
+**Backend • APIs • Integrações • TypeScript • Node.js • JavaScript**
 
 </div>
 
